@@ -11,3 +11,9 @@ TESTE DE MULTIMETRO NA PROTOBOARD:
 
 Foi realizado o teste de leds com os multimetros, 4 leds funcionando e um teve falha.
 Foi ligado 3 coolers e 4 leds, a corrente foi de 0,41 e a tensão foi de 11.64.
+
+potenciometro:
+potencia: 3.18
+Consumo total: 40.98
+tensão: 122v 
+corrente total: 0.86
