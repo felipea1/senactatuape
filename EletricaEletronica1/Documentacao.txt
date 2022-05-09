@@ -3,5 +3,11 @@ Medindo a tensão da tomada, que fica em cima da bancada. Senac Tatuapé (25/04/
 Primeiro teste: Tensão da tomada, deu exatos 121v (Volts) Obs: estes testes estão sendo realizados com multimetro, na escala de corrente alternada, 200 volts.
 Segundo teste: Teste com o cabo de força, deu exatos 121v
 cabo chegou a 0 no teste de continuidade, ou seja está em ótimo estado.
-Testando a corrente contínua da fonte (Obs: LA 3.3 VE 5.1 AM 12.1
-)
+Testando a corrente contínua da fonte (Obs: LA 3.3 VE 5.1 AM 12.1)
+TESTE DE MULTIMETRO NA PROTOBOARD:
+4.93
+11.95
+6.98
+
+Foi realizado o teste de leds com os multimetros, 4 leds funcionando e um teve falha.
+Foi ligado 3 coolers e 4 leds, a corrente foi de 0,41 e a tensão foi de 11.64.
