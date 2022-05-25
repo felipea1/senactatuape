@@ -1,0 +1,2 @@
+Hoje eu aprendi a usar o comando echo e a criar texto no prompt de comando, também vi o comando cat, head e tail e consegui listar o
+a quantidade de linhas, e por fim eu usei o comando rmdir para excluir um diretorio, no prompt de comando.
