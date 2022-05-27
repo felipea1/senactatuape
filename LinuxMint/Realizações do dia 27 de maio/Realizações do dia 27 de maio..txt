@@ -1,0 +1,21 @@
+Instalando as distruibuições do linux dia 27/05/22
+#Instalando o Kubuntu #01
+Começei primeiro com o linux kubuntu e consegui fazer a instalação normalmente.
+Passei pelo assistente do kubuntu, realizei a instalação normal, e passei pelo cliente de instalação, foi feita a instalação dos drivers também
+
+#instalação do lubuntu #02
+agora irei realizar a instalação do lubuntu
+criei uma nova maquina virtual e fiz o processo de instalação incluindo os drivers.
+foi um sucesso
+
+Instalação do ubuntu #03
+Irei fazer a instalação do ubuntu, já criei a maquina virtual e estou passando pelo assistente de instalação...
+foi um sucesso, tirei as prints da área de trabalho e não deu nenhum erro.
+
+Instalando o Xubuntu #04
+agora a etapa final, instalarei o Xubuntu e começarei criando uma nova maquina virtual e passarei pelo cliente de instalação
+E por fim, foi um sucesso a instalação...
+
+Resunmo: Consegui fazer a instalação dos 4 linux diferentes e notei que todos são bem similares... não chega a ter uma diferença absurda de uma versão para outra.
+(A unica mudança é a interface somente)
+mas já aprendi a dominar a criação e instalação de maquinas virtuais. 
