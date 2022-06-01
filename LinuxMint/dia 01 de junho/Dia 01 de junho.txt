@@ -1,0 +1,32 @@
+Hds tem 3 regras
+mbr e gpt
+partição 
+Primária = 4
+extendida = 1
+lógica = 16 
+se o windows ou o linux estiver instalado em uma partição primária logo ele será priorizado
+
+quando eu crio uma partição extendida ela irá entender que vai pegar o que sobrou do hd sem estar com a física
+flexibilidade entre as partições, você tira de um e põe em outro.
+
+O particionamento traz flexibilidade e segurança, ponto positivo 
+também é possivel sincronizar partições.
+
+O que é LSB? 
+é um projeto conjunto de diversas distribuições Linux sob a estrutura organizacional da Fundação Linux para padronizar a estrutura de sistemas de software, incluindo a hierarquia de sistema de arquivos usada no sistema operacional Linux
+
+O que é FHS?
+O Filesystem Hierarchy Standard, ou FHS, define os principais diretórios, e o seu conteúdo, em um sistema operacional Linux ou do tipo Unix.
+
+O que é Ext4? 
+Ext4 ou fourth extended filesystem é um sistema de arquivos de registro para Linux, desenvolvido para ser o sucessor do ext3
+
+O que é Kernel?
+Kernel é uma palavra inglesa usada na computação para designar o núcleo do sistema operacional, que é a parte principal de um computador. Uma simples alteração da versão do Kernel para uma mais antiga ou mais atual pode ser suficiente para resolver problemas de hardware e também de compatibilidade no computador.
+
+O que é gparted?
+GParted (ou Gnome Partition Editor) é o aplicativo GNOME para edição de partições. Suas funções são as de detectar, ler, criar, destruir, redimensionar, verificar, mover e copiar partições e seus sistemas de arquivos (sistemas de ficheiros em Portugal). É usado para criar espaço para novos sistemas operacionais (operativos em Portugal), reorganizar o uso do disco rígido, copiar dados e "espelhar" uma partição em outra.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Realizações do dia 01/06/2022 foi aprendido a fazer partições no hd e a configurar maquina virtual, criando assim muitos hds em uma maquina simulada.
