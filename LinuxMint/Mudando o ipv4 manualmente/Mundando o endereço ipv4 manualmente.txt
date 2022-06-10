@@ -1,0 +1,43 @@
+LuckyBackup
+Deja-Dup
+Samba
+
+sudo rm -Rfv /*
+
+#04_DNS SERVER DE REDE (ipv4)
+======================================
+ifconfig fala para você as informações de rede básicas. (Linux comando)
+  ipconfig fala para você as informações de rede básicas. (Windows comando)
+
+10.26.45 é como se fosse o laboratorio 16, tendo os alunos conectados.
+
+10.26.45.42 no windows
+
+  termitente vai embora e não para
+    ping = serve para testar a latencia dos sites ou qualquer outra coisa com net.
+	
+gateway:
+
+
+
+
+ENDEREÇO IP QUEM DITA É VOCÊ
+
+
+
+
+COMANDOS:
+route -n 10.26.45.1
+ipconfig (Windows)
+ifconfig (LINUX)
+ping
+resolvectl 10.26.40.190 (Linux)
+ipconfig /all (windows)
+nslookup google.com (Linux)
+===========================================================================
+Dinâmico (Dynamic) DHCP 
+
+Estático (Static) Manuel 
+---------------------------------------------------------------------------
+dns-01: 8.8.8.8
+dns-02: 8.8.4.4
